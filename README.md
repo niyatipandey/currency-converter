@@ -28,10 +28,15 @@ It fetches real-time exchange rates from a public currency API and allows users 
 ## 📂 Project Structure
   currency-converter/
   ├── index.html
+  
   ├── style.css
+  
   ├── script.js
+  
   ├── countryList.js
+  
   ├── screenshot.png
+  
   └── README.md
 ---
 
