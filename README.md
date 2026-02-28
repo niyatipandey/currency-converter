@@ -47,8 +47,7 @@ currency-converter/
 
 ## 🌐 Live Demo
 
-(Add your GitHub Pages link here after deployment)
-
+🔗 **Live Demo:** [Click Here](https://niyatipandey.github.io/currency-converter/)
 ---
 
 ## 📌 What I Learned
