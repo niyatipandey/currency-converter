@@ -44,9 +44,6 @@ currency-converter/
 5. The final converted amount is displayed dynamically.
 
 ---
-
-## 🌐 Live Demo
-
 🔗 **Live Demo:** [Click Here](https://niyatipandey.github.io/currency-converter/)
 ---
 
