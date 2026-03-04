@@ -26,7 +26,8 @@ It fetches real-time exchange rates from a public currency API and allows users 
 ---
 
 ## 📂 Project Structure
- ```currency-converter
+ currency-converter
+ ```
 │
 ├── index.html
 ├── style.css
